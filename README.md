@@ -36,7 +36,7 @@
   
   ---
   
-  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-raves8-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/raves8) [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-%2325D366?style=flat&logo=whatsapp&logoColor=%231A1110&color=%2325D366)](https://wa.me/79387862323)
+  :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-raves8-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/raves8) [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-%2325D366?style=flat&logo=whatsapp&logoColor=%231A1110&color=%2325D366)](https://wa.me/)
  
 
   ---
